@@ -37,7 +37,12 @@ IMAGE_MAPPING = {
     7: "slide7_flowchart_1782041381183.png",
     8: "slide8_teachable_1782041393942.png",
     9: "slide9_daily_ai_1782041408378.png",
-    10: "slide10_challenge_1782041422572.png"
+    10: "slide10_challenge_1782041422572.png",
+    11: "slide11_alive_1782044904562.png",
+    12: "slide12_takeover_1782044916304.png",
+    13: "slide13_chatgpt_1782044930890.png",
+    14: "slide14_mistake_1782044944705.png",
+    15: "slide15_genius_1782044960339.png"
 }
 
 def parse_markdown_slides(filepath):

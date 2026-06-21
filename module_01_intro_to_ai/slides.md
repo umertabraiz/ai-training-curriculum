@@ -133,3 +133,58 @@
   * [ ] Visit teachablemachine.withgoogle.com
   * [ ] Train your AI to recognize 2 items (like Happy vs. Silly face, or Book vs. Phone)
   * [ ] Test it on your parents or friends!
+
+---
+
+## Slide 11: Q&A - Is AI Alive?
+* **Slide Title**: Is AI Actually Alive?
+* **Visual Suggestion**:
+  * A cute cartoon robot looking into a glowing mirror, seeing its own lines of programming code reflecting back.
+* **Presenter Script**:
+  > "Nope! AI is not alive, and it doesn't have feelings or think like you do. Think of AI like a super-smart mirror. A mirror doesn't know who you are; it just reflects the light that hits it. AI just reflects the data and patterns we gave it. It doesn't feel happy when it gets a correct answer, and it doesn't feel sad when it fails. It's just computer code running math equations very fast."
+* **Interactive Checkpoint**:
+  * If you tell Siri she did a bad job, does she go cry in her room? Let's check: Is she a person or a tool?
+
+---
+
+## Slide 12: Q&A - Will Robots Take Over?
+* **Slide Title**: Will AI Take Over the World?
+* **Visual Suggestion**:
+  * A friendly, tiny cartoon robot holding a giant glowing hammer, looking helpful and cute, simple tool theme.
+* **Presenter Script**:
+  > "No, because AI can only do what we train it to do. It has no goals of its own. An AI designed to play chess cannot decide to go clean your room or lock the doors. AI is like a power tool—like a chainsaw or a hammer. A hammer is really good at driving nails, but it can't build a house by itself. It needs a human builder to guide it. AI needs humans to write the code, train the data, and make sure it behaves."
+* **Interactive Checkpoint**:
+  * Imagine an AI that is the best Tic-Tac-Toe player in the world. What happens if you ask it to write a poem?
+
+---
+
+## Slide 13: Q&A - How Does ChatGPT Know Everything?
+* **Slide Title**: How Does ChatGPT Know So Much?
+* **Visual Suggestion**:
+  * A smart cartoon book wearing glasses and typing on a laptop, with a glowing speech bubble guessing the next word.
+* **Presenter Script**:
+  > "ChatGPT doesn't actually 'know' facts like you do. Instead, it is the world's best Word Guesser. Imagine the 'autocomplete' feature on your phone's keyboard, but supercharged. ChatGPT read millions of books, articles, and websites (data). From that data, it learned what words usually come after other words. When you ask it a question, it predicts the most likely next word, one word at a time, based on everything it has read."
+* **Interactive Checkpoint**:
+  * Have you ever used autocomplete to write a sentence and it said something silly? Why does ChatGPT make mistakes (hallucinate)?
+
+---
+
+## Slide 14: Q&A - Can AI Make Mistakes?
+* **Slide Title**: Can AI Make Mistakes?
+* **Visual Suggestion**:
+  * A white poodle dog looking confused while a computer camera box scans it and displays a label: "99% Probability: Cloud".
+* **Presenter Script**:
+  > "Yes, AI makes mistakes all the time! We have a saying in computer science: 'Garbage in, garbage out.' If we train an AI with bad or incomplete data, it will make bad decisions. For example, if you want to train an AI to recognize dogs, but you only show it photos of brown dogs, what will it say when it sees a white poodle? It will think it's a cat or a cloud! It's not the AI's fault—it's because we didn't give it enough variety of data."
+* **Interactive Checkpoint**:
+  * If we train a smart car only on sunny California streets, what will it do when it sees snow in Canada?
+
+---
+
+## Slide 15: Q&A - Do I Need to Be a Math Genius?
+* **Slide Title**: How Do I Build AI?
+* **Visual Suggestion**:
+  * A young student building a toy robot using colorful plastic building block LEGO-like bricks.
+* **Presenter Script**:
+  > "Absolutely not! You don't need to be a math genius at all. Today, we have amazing visual tools (like n8n, Teachable Machine, and Scratch) where you can build AI apps by dragging and dropping blocks or drawing connections, just like building with LEGOs. As you grow, you will learn to write code (like Python) to make them even cooler, but you can start shipping real working chatbots and voice agents right now!"
+* **Interactive Checkpoint**:
+  * Next session we will build a custom chatbot that talks back. What special personality or topic should our chatbot have?
