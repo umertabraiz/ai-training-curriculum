@@ -96,6 +96,11 @@ def parse_markdown_slides(filepath):
                 current_section = 'script'
                 continue
 
+            # Reset section if a new primary bullet key is encountered
+            other_bullet_match = re.match(r'^\*\s+\*\*(.*?)\*\*:\s*(.*)', line_stripped)
+            if other_bullet_match:
+                current_section = None
+
             # Check if this line is part of visual suggestions or presenter script
             if current_section == 'visual':
                 cleaned = re.sub(r'^[\*\-\+]\s*', '', line_stripped)
